@@ -1,0 +1,219 @@
+title = "From Germany to Istanbul"
+shortname = "germany2istanbul"
+caption = "In the second half of 2021 I travelled from Germany to Istanbul over the course of three weeks."
+imagePathFull = "/images/posts/germany2istanbul/fulls/01.jpg"
+imagePathThumb = "/images/posts/germany2istanbul/fulls/01.jpg"
+position = "left center"
+link.destination = "posts/germany2istanbul"
+link.label = "See more impressions..."
+description = "Bla bla bla bla"
+
+[[images]]
+  title = "Vivamus convallis libero"
+  caption = "Sed velit lacus, laoreet at venenatis convallis in lorem tincidunt."
+  imagePathFull = "/images/posts/germany2istanbul/fulls/01.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/01.jpg"
+  position = ""
+
+[[images]]
+  title = "Vivamus convallis libero"
+  caption = "Sed velit lacus, laoreet at venenatis convallis in lorem tincidunt."
+  imagePathFull = "/images/posts/germany2istanbul/fulls/02.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/02.jpg"
+  position = ""
+
+[[images]]
+  title = "Nec accumsan enim felis"
+  caption = "Maecenas eleifend tellus ut turpis eleifend, vitae pretium faucibus."
+  imagePathFull = "/images/posts/germany2istanbul/fulls/03.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/03.jpg"
+  position = "top center"
+
+[[images]]
+  title = "Donec maximus nisi eget"
+  caption = "Tristique in nulla vel congue. Sed sociis natoque parturient nascetur."
+  imagePathFull = "/images/posts/germany2istanbul/fulls/04.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/04.jpg"
+  position = ""
+
+[[images]]
+  title = "Nullam vitae nunc vulputate"
+  caption = "Tristique in nulla vel congue. Sed sociis natoque parturient nascetur."
+  imagePathFull = "/images/posts/germany2istanbul/fulls/05.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/05.jpg"
+  position = "top center"
+
+[[images]]
+  title = "Phasellus magna faucibus"
+  caption = "Nulla dignissim libero maximus tellus varius dictum ut posuere magna."
+  imagePathFull = "/images/posts/germany2istanbul/fulls/06.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/06.jpg"
+  position = ""
+
+[[images]]
+  title = "Proin quis mauris"
+  caption = "Etiam ultricies, lorem quis efficitur porttitor, facilisis ante orci urna."
+  imagePathFull = "/images/posts/germany2istanbul/fulls/07.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/07.jpg"
+  position = ""
+
+[[images]]
+  title = "Gravida quis varius enim"
+  caption = "Nunc egestas congue lorem. Nullam dictum placerat ex sapien tortor mattis."
+  imagePathFull = "/images/posts/germany2istanbul/fulls/08.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/08.jpg"
+  position = ""
+
+[[images]]
+  title = "Morbi eget vitae adipiscing"
+  caption = "In quis vulputate dui. Maecenas metus elit, dictum praesent lacinia lacus."
+  imagePathFull = "/images/posts/germany2istanbul/fulls/09.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/09.jpg"
+  position = ""
+
+[[images]]
+  title = "Habitant tristique senectus"
+  caption = "Vestibulum ante ipsum primis in faucibus orci luctus ac tincidunt dolor."
+  imagePathFull = "/images/posts/germany2istanbul/fulls/10.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/10.jpg"
+  position = ""
+
+[[images]]
+  title = "Pharetra ex non faucibus"
+  caption = "Ut sed magna euismod leo laoreet congue. Fusce congue enim ultricies."
+  imagePathFull = "/images/posts/germany2istanbul/fulls/11.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/11.jpg"
+  position = ""
+
+[[images]]
+  title = "Mattis lorem sodales"
+  caption = "Feugiat auctor leo massa, nec vestibulum nisl erat faucibus, rutrum nulla."
+  imagePathFull = "/images/posts/germany2istanbul/fulls/12.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/12.jpg"
+  position = ""
+
+[[images]]
+  title = "Vivamus convallis libero"
+  caption = "Sed velit lacus, laoreet at venenatis convallis in lorem tincidunt."
+  imagePathFull = "/images/posts/germany2istanbul/fulls/13.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/13.jpg"
+  position = ""
+
+[[images]]
+  title = "Nec accumsan enim felis"
+  caption = "Maecenas eleifend tellus ut turpis eleifend, vitae pretium faucibus."
+  imagePathFull = "/images/posts/germany2istanbul/fulls/14.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/14.jpg"
+  position = "top center"
+
+[[images]]
+  title = "Donec maximus nisi eget"
+  caption = "Tristique in nulla vel congue. Sed sociis natoque parturient nascetur."
+  imagePathFull = "/images/posts/germany2istanbul/fulls/15.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/15.jpg"
+  position = ""
+
+[[images]]
+  title = "Nullam vitae nunc vulputate"
+  caption = "Tristique in nulla vel congue. Sed sociis natoque parturient nascetur."
+  imagePathFull = "/images/posts/germany2istanbul/fulls/16.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/16.jpg"
+  position = "top center"
+
+[[images]]
+  title = "Phasellus magna faucibus"
+  caption = "Nulla dignissim libero maximus tellus varius dictum ut posuere magna."
+  imagePathFull = "/images/posts/germany2istanbul/fulls/17.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/17.jpg"
+  position = ""
+
+[[images]]
+  title = "Proin quis mauris"
+  caption = "Etiam ultricies, lorem quis efficitur porttitor, facilisis ante orci urna."
+  imagePathFull = "/images/posts/germany2istanbul/fulls/18.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/18.jpg"
+  position = ""
+
+[[images]]
+  title = "Gravida quis varius enim"
+  caption = "Nunc egestas congue lorem. Nullam dictum placerat ex sapien tortor mattis."
+  imagePathFull = "/images/posts/germany2istanbul/fulls/19.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/19.jpg"
+  position = ""
+
+[[images]]
+  title = "Morbi eget vitae adipiscing"
+  caption = "In quis vulputate dui. Maecenas metus elit, dictum praesent lacinia lacus."
+  imagePathFull = "/images/posts/germany2istanbul/fulls/20.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/20.jpg"
+  position = ""
+
+[[images]]
+  title = "Habitant tristique senectus"
+  caption = "Vestibulum ante ipsum primis in faucibus orci luctus ac tincidunt dolor."
+  imagePathFull = "/images/posts/germany2istanbul/fulls/21.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/21.jpg"
+  position = ""
+
+[[images]]
+  title = "Pharetra ex non faucibus"
+  caption = "Ut sed magna euismod leo laoreet congue. Fusce congue enim ultricies."
+  imagePathFull = "/images/posts/germany2istanbul/fulls/22.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/22.jpg"
+  position = ""
+
+[[images]]
+  title = "Mattis lorem sodales"
+  caption = "Feugiat auctor leo massa, nec vestibulum nisl erat faucibus, rutrum nulla."
+  imagePathFull = "/images/posts/germany2istanbul/fulls/23.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/23.jpg"
+  position = ""
+  
+[[images]]
+  title = "Proin quis mauris"
+  caption = "Etiam ultricies, lorem quis efficitur porttitor, facilisis ante orci urna."
+  imagePathFull = "/images/posts/germany2istanbul/fulls/24.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/24.jpg"
+  position = ""
+
+[[images]]
+  title = "Gravida quis varius enim"
+  caption = "Nunc egestas congue lorem. Nullam dictum placerat ex sapien tortor mattis."
+  imagePathFull = "/images/posts/germany2istanbul/fulls/25.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/25.jpg"
+  position = ""
+
+[[images]]
+  title = "Morbi eget vitae adipiscing"
+  caption = "In quis vulputate dui. Maecenas metus elit, dictum praesent lacinia lacus."
+  imagePathFull = "/images/posts/germany2istanbul/fulls/26.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/26.jpg"
+  position = ""
+
+[[images]]
+  title = "Habitant tristique senectus"
+  caption = "Vestibulum ante ipsum primis in faucibus orci luctus ac tincidunt dolor."
+  imagePathFull = "/images/posts/germany2istanbul/fulls/27.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/27.jpg"
+  position = ""
+
+[[images]]
+  title = "Pharetra ex non faucibus"
+  caption = "Ut sed magna euismod leo laoreet congue. Fusce congue enim ultricies."
+  imagePathFull = "/images/posts/germany2istanbul/fulls/28.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/28.jpg"
+  position = ""
+
+[[images]]
+  title = "Mattis lorem sodales"
+  caption = "Feugiat auctor leo massa, nec vestibulum nisl erat faucibus, rutrum nulla."
+  imagePathFull = "/images/posts/germany2istanbul/fulls/29.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/29.jpg"
+  position = ""
+
+[[images]]
+  title = "Mattis lorem sodales"
+  caption = "Feugiat auctor leo massa, nec vestibulum nisl erat faucibus, rutrum nulla."
+  imagePathFull = "/images/posts/germany2istanbul/fulls/30.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/30.jpg"
+  position = ""
