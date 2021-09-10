@@ -1,219 +1,239 @@
-title = "From Germany to Istanbul"
+title = "Von Deutschland nach Istanbul"
 shortname = "germany2istanbul"
-caption = "In the second half of 2021 I travelled from Germany to Istanbul over the course of three weeks."
+caption = "In der zweiten Jahreshälfte von 2021 bin ich von Schalksmühle im Sauerland innerhalb von drei Wochen nach Istanbul gereist."
 imagePathFull = "/images/posts/germany2istanbul/fulls/01.jpg"
 imagePathThumb = "/images/posts/germany2istanbul/fulls/01.jpg"
 position = "left center"
 link.destination = "posts/germany2istanbul"
-link.label = "See more impressions..."
+link.label = "Hier gehts zu den Bildern."
 description = "Bla bla bla bla"
 
 [[images]]
-  title = "Bayern bla"
-  caption = "Sed velit lacus, laoreet at venenatis convallis in lorem tincidunt."
+  title = "Fischabachau an der Leitzach"
+  caption = "Hier verbrachte ich zwei schöne Arbeitstage. Dank einer Empfehlung von meinem Kollegen Sean, hatte ich mir für das Arbeiten aus dem Bus einen USB-C Monitor zugelegt, der bei Videokonferenzen mit Screensharing Gold wert war. Den Platz mit WC und LTE Empfang hatte ich übrigens mit "
   imagePathFull = "/images/posts/germany2istanbul/fulls/01.jpg"
   imagePathThumb = "/images/posts/germany2istanbul/thumbs/01.jpg"
+  externallink.destination = "https://park4night.com/de/lieu/97981//fischbachau-6-forststra%C3%9Fe/germany/oberbayern/Umgeben-von-Natur"
+  externallink.label = "Park4Night gefunden."
   position = ""
 
 [[images]]
-  title = "Vivamus convallis libero"
-  caption = "Sed velit lacus, laoreet at venenatis convallis in lorem tincidunt."
+  title = "Die julianischen Alpen in Slowenien"
+  caption = "Am ersten Wochenende des Trips wanderte ich im Triglav Nationalpark kurz hinter der österreischen Grenze und war begeistert von den Ausblicken."
   imagePathFull = "/images/posts/germany2istanbul/fulls/02.jpg"
   imagePathThumb = "/images/posts/germany2istanbul/thumbs/02.jpg"
+  externallink.destination = "https://www.komoot.com/tour/444593618?ref=atd"
+  externallink.label = "Hier gehts zur Wanderung auf Komoot."
   position = ""
 
 [[images]]
-  title = "Nec accumsan enim felis"
-  caption = "Maecenas eleifend tellus ut turpis eleifend, vitae pretium faucibus."
+  title = "Der Blick auf den Berg Brda"
+  caption = "Ich selbst hatte leider die Abbiegung verpasst um die letzten Meter auf den Berg zugehen. Den Blick von etwas weiter unten fand ich allerdings auch spektakulär."
   imagePathFull = "/images/posts/germany2istanbul/fulls/03.jpg"
   imagePathThumb = "/images/posts/germany2istanbul/thumbs/03.jpg"
   position = "top center"
 
 [[images]]
-  title = "Donec maximus nisi eget"
-  caption = "Tristique in nulla vel congue. Sed sociis natoque parturient nascetur."
+  title = "Eine Kuh!"
+  caption = "Nachdem ich die Glocke schon von weiter weg gehört hatte fand ich sie. Die Kuh weiß offensichtlich auch, wie man gute Standplätze findet."
   imagePathFull = "/images/posts/germany2istanbul/fulls/04.jpg"
   imagePathThumb = "/images/posts/germany2istanbul/thumbs/04.jpg"
   position = ""
 
 [[images]]
-  title = "Nullam vitae nunc vulputate"
-  caption = "Tristique in nulla vel congue. Sed sociis natoque parturient nascetur."
+  title = "Der Bohinj See in Slowenien"
+  caption = "Eigentlich wollte ich an den Bleder See, aber der war noch mehr von Wochenendbesuchern überlaufen wie dieser. Für eine kurze Abkühlung war es hier trotzdem schön."
   imagePathFull = "/images/posts/germany2istanbul/fulls/05.jpg"
   imagePathThumb = "/images/posts/germany2istanbul/thumbs/05.jpg"
   position = "top center"
 
 [[images]]
-  title = "Phasellus magna faucibus"
-  caption = "Nulla dignissim libero maximus tellus varius dictum ut posuere magna."
+  title = "In den Bergen bei Bohinj"
+  caption = "Nach den Menschenmengen fand ich an einem Forstweg im Gebirge Zuflucht."
   imagePathFull = "/images/posts/germany2istanbul/fulls/06.jpg"
   imagePathThumb = "/images/posts/germany2istanbul/thumbs/06.jpg"
+  externallink.destination = "https://park4night.com/de/lieu/126652/umgeben-von-natur/bohinjska-bistrica-nem%C5%A1ki-rovt/slovenia/"
+  externallink.label = "Den Spot findet man auf Park4Night."
   position = ""
 
 [[images]]
-  title = "Proin quis mauris"
-  caption = "Etiam ultricies, lorem quis efficitur porttitor, facilisis ante orci urna."
+  title = "In den Höhlen von Postojna"
+  caption = "Am Sonntag hatte ich die Höhlen von Postojna besichtigt. Das Höhlensystem erstreckt sich mit teils riesigen Hallen über 24km und war wirklich beeindruckend. Ebenfalls zu sehen gab es hier die erstaunlichen "
   imagePathFull = "/images/posts/germany2istanbul/fulls/07.jpg"
   imagePathThumb = "/images/posts/germany2istanbul/thumbs/07.jpg"
+  externallink.destination = "https://de.wikipedia.org/wiki/Grottenolm"
+  externallink.label = "Grottenolme."
   position = ""
 
 [[images]]
-  title = "Gravida quis varius enim"
-  caption = "Nunc egestas congue lorem. Nullam dictum placerat ex sapien tortor mattis."
+  title = "In den Bergen über Vipava"
+  caption = "Am Stellplatz bot sich der Blick über Kroatien (hier in der Ferne), Slowenien und Italien rund um den Golf von Trieste. Mit drei französischen Brüdern, die zusammen mit Dachzelt reisten trank ich Abends noch ein Bier an dem kleinen Kloster."
   imagePathFull = "/images/posts/germany2istanbul/fulls/08.jpg"
   imagePathThumb = "/images/posts/germany2istanbul/thumbs/08.jpg"
   position = ""
 
 [[images]]
-  title = "Morbi eget vitae adipiscing"
-  caption = "In quis vulputate dui. Maecenas metus elit, dictum praesent lacinia lacus."
+  title = "Der Blick über das Vipava Tal nach Italien"
+  caption = "Hier hat es mir so gut gefallen, dass ich direkt zwei Nächte dort geblieben bin und tagsüber von dort gearbeitet habe. Gefunden hatte ich den Platz übrigens mal wieder "
   imagePathFull = "/images/posts/germany2istanbul/fulls/09.jpg"
   imagePathThumb = "/images/posts/germany2istanbul/thumbs/09.jpg"
+  externallink.destination = "https://park4night.com/de/lieu/143404/off-road-(4x4)/vipava-unnamed-road/slovenia/"
+  externallink.label = "über Park4Night."
   position = ""
 
 [[images]]
-  title = "Habitant tristique senectus"
-  caption = "Vestibulum ante ipsum primis in faucibus orci luctus ac tincidunt dolor."
+  title = "Der Golf von Triest"
+  caption = "An dem Blick konnte man sich schwer satt sehen. Am Abend lernte ich ein nettes Dresdner Pärchen kennen, die in ihrer 3er Limousine umher reisen. Da wurde ich mal wieder daran erinnert, wie viel Komfort und Luxus ich trotzdem noch mit so einem Van habe."
   imagePathFull = "/images/posts/germany2istanbul/fulls/10.jpg"
   imagePathThumb = "/images/posts/germany2istanbul/thumbs/10.jpg"
   position = ""
 
 [[images]]
-  title = "Pharetra ex non faucibus"
-  caption = "Ut sed magna euismod leo laoreet congue. Fusce congue enim ultricies."
+  title = "Der Weg zurück ins Vippava Tal"
+  caption = "Aller Abschied ist schwer. Die Straße zurück war am Abend allerdings toll zu fahren."
   imagePathFull = "/images/posts/germany2istanbul/fulls/11.jpg"
   imagePathThumb = "/images/posts/germany2istanbul/thumbs/11.jpg"
   position = ""
 
 [[images]]
-  title = "Mattis lorem sodales"
-  caption = "Feugiat auctor leo massa, nec vestibulum nisl erat faucibus, rutrum nulla."
+  title = "Ein Anglersee in Krmelj"
+  caption = "Hier kam ich im dunklen an, wurde aber freundlich von Drago und Matej begrüßt. Die beiden waren mit Dragos drei Töchtern angeln und luden mich direkt auf ein Bier ein."
   imagePathFull = "/images/posts/germany2istanbul/fulls/12.jpg"
   imagePathThumb = "/images/posts/germany2istanbul/thumbs/12.jpg"
   position = ""
 
 [[images]]
-  title = "Vivamus convallis libero"
-  caption = "Sed velit lacus, laoreet at venenatis convallis in lorem tincidunt."
+  title = "Bilch an Gemüse und Pommes"
+  caption = "Am zweiten Abend bot ich den beiden an zu kochen. Drago steurte selbstgefangenen Bilch bei, von dem ich vorher weder gehört, geschweige denn ihn gegessen hatte. Fazit: Etwas wenig Fleisch, viel Fett, aber richtig lecker!"
   imagePathFull = "/images/posts/germany2istanbul/fulls/13.jpg"
   imagePathThumb = "/images/posts/germany2istanbul/thumbs/13.jpg"
   position = ""
 
 [[images]]
-  title = "Nec accumsan enim felis"
-  caption = "Maecenas eleifend tellus ut turpis eleifend, vitae pretium faucibus."
+  title = "Die freiwillige Feuerwehr in Krmelj"
+  caption = "Ein Freund der beiden Angler zeigte uns am nächsten Tag stolz die Feuerwache. Er erzählte viel von der Geschichte des Ortes mit etwas mehr als 1000 Einwohnern. Hier wurde famals viel Bergbau betrieben und es gab zu der Zeit einen 5-gleisigen Bahnhof. Zum Abschied bekam ich sogar noch ein Buch über Krmelj geschenkt."
   imagePathFull = "/images/posts/germany2istanbul/fulls/14.jpg"
   imagePathThumb = "/images/posts/germany2istanbul/thumbs/14.jpg"
   position = "top center"
 
 [[images]]
-  title = "Donec maximus nisi eget"
-  caption = "Tristique in nulla vel congue. Sed sociis natoque parturient nascetur."
+  title = "Lipik, Kroatien"
+  caption = "Nach einem Stop für einen PCR Test in Zagreb, landete ich am nächsten Anglersee. Der Test war notwendig, da mein nächstes Ziel Serbien leider Impf-Zertifikate aus Deutschland nicht anerkannte. Der See lud zwar nicht zum schwimmen ein, aber man konnte eine schöne Runde spazieren gehen. Hier ist der Spot bei "
   imagePathFull = "/images/posts/germany2istanbul/fulls/15.jpg"
   imagePathThumb = "/images/posts/germany2istanbul/thumbs/15.jpg"
+  externallink.destination = "https://park4night.com/de/lieu/148090//lipik-unnamed-road/croatia/op%C4%87ina-lipik/Umgeben-von-Natur"
+  externallink.label = "Park4Night."
   position = ""
 
 [[images]]
-  title = "Nullam vitae nunc vulputate"
-  caption = "Tristique in nulla vel congue. Sed sociis natoque parturient nascetur."
+  title = "An der Sava bei Županja"
+  caption = "Der letzte Stop in Kroatien, bevor ich nach Serbien weiterreiste. Der Ort liegt direkt am Fluss Sava mit Bosnien auf der anderen Seite. Nach einem Sprung ins Wasser machte ich mir einen gemütlichen Samstagvormittag und arbeitete etwas vor. Eine Woche hatte ich noch vor meinem fünfwöchigen Urlaub."
   imagePathFull = "/images/posts/germany2istanbul/fulls/16.jpg"
   imagePathThumb = "/images/posts/germany2istanbul/thumbs/16.jpg"
   position = "top center"
 
 [[images]]
-  title = "Phasellus magna faucibus"
-  caption = "Nulla dignissim libero maximus tellus varius dictum ut posuere magna."
+  title = "Radost Fina Kuhinjica in Belgrad"
+  caption = "Die Fahrt nach Belgrad dauerte durch 1,5 Stunden an der Grenze länger als erwartet. Das Erste was ich in Belgrad machte, war mir etwas zu essen zu suchen. Nachdem ich zunächst dachte, das Restaurant meiner Wahl existiert schon nicht mehr, fand ich doch noch einen unscheinbaren Hauseingang. Belohnt wurde ich mit einem tollen Essen im gemütlichen Garten."
   imagePathFull = "/images/posts/germany2istanbul/fulls/17.jpg"
   imagePathThumb = "/images/posts/germany2istanbul/thumbs/17.jpg"
   position = ""
 
 [[images]]
-  title = "Proin quis mauris"
-  caption = "Etiam ultricies, lorem quis efficitur porttitor, facilisis ante orci urna."
+  title = "Sava und Donau"
+  caption = "Von der alten Festung Kalemegdan in Belgrad hat man einen tollen Blick auf die Stelle, wo die die Sava der Donau zufließt. Da ich Zweiterem nicht zum letzten Mal begegnen würde, bin ich auf diesen Fun-Fact gestoßen: Die Donau zieht sich durch zehn Länder und ist damit der Fluss, der weltweit am meisten Länder durchfließt."
   imagePathFull = "/images/posts/germany2istanbul/fulls/18.jpg"
   imagePathThumb = "/images/posts/germany2istanbul/thumbs/18.jpg"
   position = ""
 
 [[images]]
-  title = "Gravida quis varius enim"
-  caption = "Nunc egestas congue lorem. Nullam dictum placerat ex sapien tortor mattis."
+  title = "Die Promenade entlang der Flüsse"
+  caption = "Der Spaziergang beim Sonnenuntergang entlang der Promenade hat mir unheimlich gut gefallen. Viele Bars, Cafes oder Clubs waren auch auf Booten, die am Ufer lagen, wie man hier auf der anderen Seite etwas sieht. Eine Empfehlung zum Erkunden der Stadt: der "
   imagePathFull = "/images/posts/germany2istanbul/fulls/19.jpg"
   imagePathThumb = "/images/posts/germany2istanbul/thumbs/19.jpg"
+  externallink.destination = "https://park4night.com/de/lieu/131274/parken-tag-und-nacht/beograd-bulevar-vojvode-bojovi%C4%87a/serbia/grad-beograd"
+  externallink.label = "kostenlose Parkplatz."
   position = ""
 
 [[images]]
-  title = "Morbi eget vitae adipiscing"
-  caption = "In quis vulputate dui. Maecenas metus elit, dictum praesent lacinia lacus."
+  title = "Kostolac in Serbien"
+  caption = "Dieses stille Örtchen an einem anderen Zufluss zur Donau suchte ich mir, da ich nicht so gern in Belgrad übernachten wollte. Ich beschloss statt der Autobahn durchs Landesinnere weiter entlang der Donau in Richtung Bulgarien zu fahren."
   imagePathFull = "/images/posts/germany2istanbul/fulls/20.jpg"
   imagePathThumb = "/images/posts/germany2istanbul/thumbs/20.jpg"
   position = ""
 
 [[images]]
-  title = "Habitant tristique senectus"
-  caption = "Vestibulum ante ipsum primis in faucibus orci luctus ac tincidunt dolor."
+  title = "Bei Boljetin im Djerdap Nationalpark"
+  caption = "Hier lernte ich Barbara und ihren Hund Buck kennen, die zusammen in einem alten Ford Transit reisen. Wir machten uns einen schönen Sonntag Nachmittag mit Wein, häufigen Sprüngen in die Donau zum Abkühlen und guten Gesprächen. Auf der anderen Seite des Flusses liegt hier übrigens Rumänien. Zu finden auf "
   imagePathFull = "/images/posts/germany2istanbul/fulls/21.jpg"
   imagePathThumb = "/images/posts/germany2istanbul/thumbs/21.jpg"
+  externallink.destination = "https://park4night.com/de/lieu/139212//boljetin-34/serbia/borski-okrug/Umgeben-von-Natur"
+  externallink.label = "Park4Night"
   position = ""
 
 [[images]]
-  title = "Pharetra ex non faucibus"
-  caption = "Ut sed magna euismod leo laoreet congue. Fusce congue enim ultricies."
-  imagePathFull = "/images/posts/germany2istanbul/fulls/22.jpg"
-  imagePathThumb = "/images/posts/germany2istanbul/thumbs/22.jpg"
-  position = ""
-
-[[images]]
-  title = "Mattis lorem sodales"
-  caption = "Feugiat auctor leo massa, nec vestibulum nisl erat faucibus, rutrum nulla."
-  imagePathFull = "/images/posts/germany2istanbul/fulls/23.jpg"
-  imagePathThumb = "/images/posts/germany2istanbul/thumbs/23.jpg"
-  position = ""
-  
-[[images]]
-  title = "Proin quis mauris"
-  caption = "Etiam ultricies, lorem quis efficitur porttitor, facilisis ante orci urna."
+  title = "Mit Elena am Stausee bei Vrachesh in Bulgarien"
+  caption = "Über die App Camp'n'Connect wollte ich auf der Tour andere Reisende kennenlernen. Seit Serbien hab ich dort allerdings niemanden mehr gesehen, bis Elena auftauchte. Wir trafen uns am nächsten Tag und teilten eine paar schöne Tage."
   imagePathFull = "/images/posts/germany2istanbul/fulls/24.jpg"
   imagePathThumb = "/images/posts/germany2istanbul/thumbs/24.jpg"
   position = ""
 
 [[images]]
-  title = "Gravida quis varius enim"
-  caption = "Nunc egestas congue lorem. Nullam dictum placerat ex sapien tortor mattis."
-  imagePathFull = "/images/posts/germany2istanbul/fulls/25.jpg"
-  imagePathThumb = "/images/posts/germany2istanbul/thumbs/25.jpg"
+  title = "Lagerfeuer Abend"
+  caption = "Am zweiten Tag lernten wir Liz kennen, die schon seit letztem Jahr in ihrem T5 lebt. Elena hatte bereits tagsüber für das Feuer Holz gesammelt und zerkleinert während ich noch Arbeiten musste. Gefühlt war Elena auf Alles rund ums Feuer vorbereitet, sodass es am Abend sogar vegane Waffeln von ihrem gusseisernen Waffeleisen gab. Liz Reisen könnt Ihr übrigens auf "
+  imagePathFull = "/images/posts/germany2istanbul/fulls/23.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/23.jpg"
+  externallink.label = "Instagram folgen."
+  externallink.destination = "https://instagram.com/more.or.liz"
+  position = ""
+  
+[[images]]
+  title = "Noch mehr Besuch am Stausee"
+  caption = "Der Stausee war außerdem Heimat von Kuh- und Pferdeherden, die von Hunden umhergetrieben wurden. Diese beiden Kälber haben morgens vor unseren Autos kräftig randaliert."
+  imagePathFull = "/images/posts/germany2istanbul/fulls/22.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/22.jpg"
   position = ""
 
 [[images]]
-  title = "Morbi eget vitae adipiscing"
-  caption = "In quis vulputate dui. Maecenas metus elit, dictum praesent lacinia lacus."
+  title = "An der Maritsa in Bulgarien"
+  caption = "Mein erster richtiger Urlaubstag und der letzte Abend, bevor ich Istanbul erreichen würde. Abends nochmal ins Wasser, morgens geduscht und dann ab auf die nahegelegene Autobahn "
+  imagePathFull = "/images/posts/germany2istanbul/fulls/25.jpg"
+  imagePathThumb = "/images/posts/germany2istanbul/thumbs/25.jpg"
+  externallink.label = "von diesem schönen Platz."
+  externallink.destination = "https://maps.app.goo.gl/MbpRfGuhno5ZSRtYA"
+  position = ""
+
+[[images]]
+  title = "Endspurt über die Fatih Sultan Mehmet Brücke"
+  caption = "Nach langer Wartezeit an der Grenze, viel Stau auf dem Weg in die immer größer werdende Stadt, ist unser Haus endlich sichtbar. Bereits beim Auffahren auf die Brücke war ich von vielen Gefühlen überwältigt."
   imagePathFull = "/images/posts/germany2istanbul/fulls/26.jpg"
   imagePathThumb = "/images/posts/germany2istanbul/thumbs/26.jpg"
   position = ""
 
 [[images]]
-  title = "Habitant tristique senectus"
-  caption = "Vestibulum ante ipsum primis in faucibus orci luctus ac tincidunt dolor."
+  title = "Der Blick über den Bosporus in Richtung Bosporus Brücke"
+  caption = "Vier Jahre war ich nicht mehr hier und vermutlich über 25 Jahre bin ich nicht mehr mit dem Auto nach Istanbul gereist. Vor dem Jugoslawien Krieg sind wir als Familie auch in einem Bulli hierher gefahren."
   imagePathFull = "/images/posts/germany2istanbul/fulls/27.jpg"
   imagePathThumb = "/images/posts/germany2istanbul/thumbs/27.jpg"
   position = ""
 
 [[images]]
-  title = "Pharetra ex non faucibus"
-  caption = "Ut sed magna euismod leo laoreet congue. Fusce congue enim ultricies."
+  title = "Gerade noch dort, jetzt endlich zuhause"
+  caption = "Seit meiner kleinsten Kindheit komme ich schon in dieses Haus. Vor 10 Jahren habe ich hier ein halbes Jahr gelebt. Jedes Mal ist es wieder schön."
   imagePathFull = "/images/posts/germany2istanbul/fulls/28.jpg"
   imagePathThumb = "/images/posts/germany2istanbul/thumbs/28.jpg"
   position = ""
 
 [[images]]
-  title = "Mattis lorem sodales"
-  caption = "Feugiat auctor leo massa, nec vestibulum nisl erat faucibus, rutrum nulla."
+  title = "Zeit für einen Sundowner"
+  caption = "Die nächsten zwei Wochen würde ich mit meiner Familie verbringen, die hierher geflogen sind und mich hier in Empfang nahmen. Regelmäßig gab es beim Sonnenuntergang einen leckeren Gin Tonic, den Sundowner. "
   imagePathFull = "/images/posts/germany2istanbul/fulls/29.jpg"
   imagePathThumb = "/images/posts/germany2istanbul/thumbs/29.jpg"
   position = ""
 
 [[images]]
-  title = "Mattis lorem sodales"
-  caption = "Feugiat auctor leo massa, nec vestibulum nisl erat faucibus, rutrum nulla."
+  title = "Und gute Nacht!"
+  caption = "Von dem Ausblick kann man zu keiner Zeit des Tages wirklich genug haben. Jedes Mal wenn ich wiederkomme, kommen gibt es nachts ein paar Lichter mehr. Nach einer Woche hier, würde es für uns weiter Richtung Fethiye gehen auf eine blaue Reise. Danach werde ich wieder alleine weiterreisen. Ohne festes Ziel und der Laune nach."
   imagePathFull = "/images/posts/germany2istanbul/fulls/30.jpg"
   imagePathThumb = "/images/posts/germany2istanbul/thumbs/30.jpg"
   position = ""

@@ -3,8 +3,8 @@ baseURL = "https://example.org/"
 languageCode = "en-US"
 title = "Four Wheels - One Home"
 theme = "hugo-lens-theme"
-disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
-copyright = "&copy; Untitled."
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "sitemap", "robotsTXT"]
+#copyright = "&copy; TA."
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
@@ -15,7 +15,7 @@ googleAnalytics = ""
   [params.header]
     title = "Four Wheels"
     title2 = "One Home"
-    description = "Hi, I'm Timuçin! In this picture blog I'll share impressions from my travels. Since a trip to the Nordics and Baltics in 2020 I fell in love with van life. I especially like  that I can spend lots of time in nature, explore remote places and meet new people."
+    description = "Hi! In diesem Bilderblog möchte ich Eindrücke von meinen Reisen festhalten und teilen. Seit einer längeren Reise in die Nordics und Baltics in 2020 habe ich mich in das Leben im Van verliebt. Dabei mag ich besonders mitten in der Natur sein zu können, entlegene Orte zu erkunden und neue Menschen kennenzulernen."
 
   # Social Icons
   # [[params.social]]
@@ -36,7 +36,7 @@ googleAnalytics = ""
   [[params.social]]
     label = "Email"
     icon = "fa-envelope-o"
-    url = "mailto:4raeder1zuhause@gmail.com"
+    url = "mailto:4wheels1home@gmail.com"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.

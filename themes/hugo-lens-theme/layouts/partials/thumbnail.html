@@ -3,5 +3,5 @@
     <img src="{{ .imagePathThumb }}" alt="{{ .title }}" />
   </a>
   <h2>{{ .title }}</h2>
-  {{ with .caption }}<p>{{ . }}{{ end }}{{ with .link }}<a href="{{ .destination }}"> {{ .label }}</a>{{ end }}</p>
+  {{ with .caption }}<p>{{ . }}{{ end }}{{ with .link }}<a href="{{ .destination }}"> {{ .label }}</a>{{ end }}{{ with .externallink }}<a href="{{ .destination }}" target="_blank" rel="noopener noreferrer"> {{ .label }}</a>{{ end }}</p>
 </article>
