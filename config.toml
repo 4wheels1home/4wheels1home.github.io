@@ -28,10 +28,10 @@ googleAnalytics = ""
   #   icon = "fa-instagram"
   #   url = "https://instagram.com"
 
-  # [[params.social]]
-  #   label = "Github"
-  #   icon = "fa-github"
-  #   url = "https://github.com"
+  [[params.social]]
+    label = "Github"
+    icon = "fa-github"
+    url = "https://github.com/4wheels1home/4wheels1home.github.io"
 
   [[params.social]]
     label = "Email"
