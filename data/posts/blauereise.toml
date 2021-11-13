@@ -1,0 +1,186 @@
+title = "Von einer blauen Reise, vielen Traumplätze und Action in der Luft"
+shortname = "blauereise"
+caption = "Nach einer Woche in İstanbul fuhr ich nach Fethiye, wo ich zunächst eine Woche mit meiner Familie auf einem Boot verbrachte. Danach lernte ich tolle Leute kennen, mit denen ich eine außergewöhnliche Woche teilte."
+imagePathFull = "/images/posts/blauereise/06.jpg"
+imagePathThumb = "/images/posts/blauereise/06_min.jpg"
+position = "left center"
+link.destination = "posts/blauereise"
+link.label = "Hier gehts zu den Bildern."
+description = "Bla bla bla bla"
+
+[[images]]
+  title = "Auf dem Weg in den Süden"
+  caption = "Über die leere, gut ausgebaute Autobahn fuhr ich mit meiner Mutter Richtung Süden. Teil der Strecke war auch die Osmangazi Brücke über das Marmarameer. Der Rest der Familie legte den Weg mit dem Flugzeug zurück."
+  imagePathFull = "/images/posts/blauereise/01.jpg"
+  imagePathThumb = "/images/posts/blauereise/01_min.jpg"
+  externallink.destination = ""
+  externallink.label = ""
+  position = ""
+
+[[images]]
+  title = "Zwischenstop bei Germencik"
+  caption = "Da wir die ca. 9 Stunden Fahrt nicht an einem Tag machen wollten, suchten wir uns diesen Standplatz an einem Stausee über Google Maps. Bis auf ein paar ungewünschte Kontakte mit fiesen Disteln im Dunkeln, hatten meine Mum und ich eine schöne gemeinsame Wildcamping Nacht."
+  imagePathFull = "/images/posts/blauereise/02.jpg"
+  imagePathThumb = "/images/posts/blauereise/02_min.jpg"
+  externallink.destination = ""
+  externallink.label = ""
+  position = ""
+
+[[images]]
+  title = "Anker los in Fethiye"
+  caption = "Nachdem wir eine ganze Weile im Hafen standen, um auf den Cousin meines Vaters und seine Frau zu warten, ging es endlich los. Aufgeheizt freuten sich alle auf das erste Mal vom Boot ins Wasser zu springen."
+  imagePathFull = "/images/posts/blauereise/03.jpg"
+  imagePathThumb = "/images/posts/blauereise/03_min.jpg"
+  position = "top center"
+
+[[images]]
+  title = "Die erste Bucht"
+  caption = "Den ersten Abend verbrachten wir in der Göcek Bucht. Laut den Nachrichten sei die große Bucht mit über 14000 Booten statt ihrer eigentlichen Kapazität von 9000 stark überfüllt. Seit Corona hat die Nachfrage nach Schiffsreisen stark zugenommen, worunter leider auch die Wasserqualität an vielen Orten leidet. Glücklicherweise fanden wir trotzdem noch ein nettes Plätzchen."
+  imagePathFull = "/images/posts/blauereise/04.jpg"
+  imagePathThumb = "/images/posts/blauereise/04_min.jpg"
+  position = ""
+
+[[images]]
+  title = "Ab ins Meer"
+  caption = "Für mich ist eines der schönsten Dinge dieser Reise, dass man jeden Morgen direkt ins Wasser springen kann. Den Tag über versorgt einen die Crew dann mit tollen Mahlzeiten und Snacks."
+  imagePathFull = "/images/posts/blauereise/05.jpg"
+  imagePathThumb = "/images/posts/blauereise/05_min.jpg"
+  position = "top center"
+
+[[images]]
+  title = "Sonnenuntergang an der Kızılada"
+  caption = "Um der großen Menge an Schiffen in der Göcek Bucht zu entgehen, ging es auf die andere Seite von Fethiye. Hier war zwar offentsichtlich auch einiges los, aber durch die offenere Lage zum Meer ist das Wasser sauberer."
+  imagePathFull = "/images/posts/blauereise/06.jpg"
+  imagePathThumb = "/images/posts/blauereise/06_min.jpg"
+  externallink.destination = ""
+  externallink.label = ""
+  position = ""
+
+[[images]]
+  title = "Die lykische Küste"
+  caption = "Die Halbinsel im Süden der Türkei zwischen Antalya und Fethiye heißt Lykien und ist bereits seit der Antike bewohnt. Die Küste ist geprägt von den Bergen des westlichen Taurusgebirges. Die meisten an Board schlafen übrigens im Freien auf Deck, wo man mit einem ebenso tollen Blick direkt wieder aufwacht."
+  imagePathFull = "/images/posts/blauereise/07.jpg"
+  imagePathThumb = "/images/posts/blauereise/07_min.jpg"
+  externallink.destination = ""
+  externallink.label = "."
+  position = ""
+
+[[images]]
+  title = "Dinnertime"
+  caption = "Unsere Köchin Sedef bereitete immer wieder abwechslungsreiche Speisen zu. Den Fisch Levrek (Seebarsch) kann ich jedem empfehlen, der mal in der Region ist. Rakı gehört selbstverständlich auch dazu :)"
+  imagePathFull = "/images/posts/blauereise/08.jpg"
+  imagePathThumb = "/images/posts/blauereise/08_min.jpg"
+  position = ""
+
+[[images]]
+  title = "Mehr Meer"
+  caption = "An Meer und Landschaft kann man sich wirklich schwer satt sehen. Mit an Board waren auch ein Kajak und SUP, welche man super nutzen konnte um die nähere Umgebung zu erkunden..."
+  imagePathFull = "/images/posts/blauereise/09.jpg"
+  imagePathThumb = "/images/posts/blauereise/09_min.jpg"
+  externallink.destination = ""
+  externallink.label = ""
+  position = ""
+
+[[images]]
+  title = "Kajakselfie"
+  caption = "...oder halt ein Selfie zu machen. Das Handy hat es glücklicherweise auch trocken wieder mit aufs Boot geschafft. Unser Boot im Hintergrund ist ein Gulet, die hauptsächlich für die blauen Reisen gebaut werden. Die Segel dienen in den meisten Fällen leider mehr zur Dekoration als zum Antrieb."
+  imagePathFull = "/images/posts/blauereise/10.jpg"
+  imagePathThumb = "/images/posts/blauereise/10_min.jpg"
+  position = ""
+
+[[images]]
+  title = "Der letzte Sonnenuntergang auf See"
+  caption = "So schön die blaue Reise immer wieder ist, so schnell geht sie auch vorbei. Am letzten Abend sprangen mein Schwager und ich nochmal in der Nacht ins Wasser, um Yakamoz zu bestaunen. Diese Art Plankton, die bei Kontakt glitzert, ist jedes Mal aufs Neue eine besondere Erfahrung. "
+  imagePathFull = "/images/posts/blauereise/11.jpg"
+  imagePathThumb = "/images/posts/blauereise/11_min.jpg"
+  position = ""
+
+[[images]]
+  title = "Iztuzu Beach"
+  caption = "Nachdem ich mich von meinen Lieben am Flughafen verabschiedet hatte, ging es wieder allein weiter. Hier am Iztuzu Strand legen viele Meeresschildkröten ihre Eier und man kann im September die Jungen schlüpfen sehen. Leider habe ich keine Schildkröten entdeckt, dafür bei einem schönen Spaziergang die nächsten Tage geplant."
+  imagePathFull = "/images/posts/blauereise/12.jpg"
+  imagePathThumb = "/images/posts/blauereise/12_min.jpg"
+  position = ""
+
+[[images]]
+  title = "Köyceğiz See"
+  caption = "Die erste Nacht allein verbrachte ich neben ein paar Anglern am Köyceğiz See. Die Drei waren am nächsten morgen zwar schon weg, aber am Außenspiegel fand ich eine Tüte mit Tomate, Käse und Joghurt fürs Frühstück. Immer wieder erfuhr ich solche netten Gesten, Einladungen zum Essen und Hilfsangebote während meiner Zeit in der Türkei."
+  imagePathFull = "/images/posts/blauereise/13.jpg"
+  imagePathThumb = "/images/posts/blauereise/13_min.jpg"
+  position = ""
+
+[[images]]
+  title = "Kitestrand in Akyaka"
+  caption = "Einer der geschmiedeten Pläne war es Kitesurfen zu lernen. Vor meiner Abreise aus Deutschland hatte mir eine Wakeboarding Session große Lust gemacht, das Ganze mal mit einem Kite auszuprobieren...und es hat sich gelohnt. Auch wenn ich bisher nur einigermaßen hin und herfahren kann, macht es bereits einen Riesen Spaß und ich bin schon sehr gespannt auf das Gefühl beim Springen in der Luft zu sein."
+  imagePathFull = "/images/posts/blauereise/14.jpg"
+  imagePathThumb = "/images/posts/blauereise/14_min.jpg"
+  position = "top center"
+
+[[images]]
+  title = "Der Blick in die Bucht von Akyaka vom Gökçe Plajı"
+  caption = "Diesen Traumspot einen Strand weiter teilte ich mir mit Jonathan und Jolien, die ich hier kennenlernte und mit denen ich eine tolle gemeinsame Zeit verbrachte. Die beiden sind schon erfahrene Kiter und konnten quasi direkt vom Auto aufs Brett. Der hauptsächlich thermische Wind in dieser Bucht ist sehr konstant und macht den Spot bis in den Oktober sehr interessant fürs Kiten. Hier der Link zu "
+  imagePathFull = "/images/posts/blauereise/15.jpg"
+  imagePathThumb = "/images/posts/blauereise/15_min.jpg"
+  externallink.destination = "https://goo.gl/maps/nzgE9SPjEjZwWpoq9"
+  externallink.label = "Google Maps."
+  position = ""
+
+[[images]]
+  title = "Spontanes Abendessen"
+  caption = "Nach dem ersten Kitetag wurde ich von Servet zum Essen eingeladen. Sie war mit ihren Nachbarn (hinten) zum Picknicken hier und hatte auch noch das junge Pärchen rechts dazugeladen. Raus kam ein wirklich schöner Abend mit leckeren Mercimek Köftesi (Linsenfrikadellen) und natürlich Rakı."
+  imagePathFull = "/images/posts/blauereise/16.jpg"
+  imagePathThumb = "/images/posts/blauereise/16_min.jpg"
+  position = "top center"
+
+[[images]]
+  title = "Qualitätsmerkmal für Stellplätze: Brautpaare!"
+  caption = "Meine Erfahrung mit dem Van in der Türkei hat gezeigt, dass die besten Wildcamping Spots häufig auch Brautpaare anziehen, die ihre Hochzeitsbilder dort machen. In der Zeit, wo ich hier am Gökçe Plajı stand, stellten Hochzeitspaare mit ihren Fotografen nach Anglern vermutlich die größte Besuchergruppe dar. "
+  imagePathFull = "/images/posts/blauereise/17.jpg"
+  imagePathThumb = "/images/posts/blauereise/17_min.jpg"
+  position = ""
+
+[[images]]
+  title = "Downtown Akyaka"
+  caption = "Nach der Kitezeit reiste ich mit Jonathan und Jolien weiter, nicht aber bevor wir einen Abstecher in die Stadt machten. Das Örtchen hat mir nicht zuletzt wegen dem vielen Grün und einem Fluss, der dort ins Meer mündet, sehr gut gefallen."
+  imagePathFull = "/images/posts/blauereise/18.jpg"
+  imagePathThumb = "/images/posts/blauereise/18_min.jpg"
+  position = ""
+
+[[images]]
+  title = "Aussichtspunkt bei Ölüdeniz"
+  caption = "Hier waren wir eigentlich nur zum Wasser auffüllen. Bei diesem Ausblick war es garnicht schlimm, dass das Wasser von der Quelle mehr tröpfelte als floss."
+  imagePathFull = "/images/posts/blauereise/19.jpg"
+  imagePathThumb = "/images/posts/blauereise/19_min.jpg"
+  externallink.destination = ""
+  externallink.label = ""
+  position = ""
+
+[[images]]
+  title = "Wer sucht, der findet"
+  caption = "Nachdem unser eigentliches Ziel für den Abend leider wegen einer verbarrikadierten Straße nicht erreichbar war, fanden wir diesen tollen Platz mit Blick in die Bucht von Ölüdeniz. Die ruhige Nacht tat gut, denn wir Drei waren ein bisschen aufgeregt. Am nächsten Tag sollte es für uns alle ein erstes Mal geben...wir hatten uns nämlich in Ölüdeniz für einen Paragliding Flug angemeldet."
+  imagePathFull = "/images/posts/blauereise/20.jpg"
+  imagePathThumb = "/images/posts/blauereise/20_min.jpg"
+  position = ""
+
+[[images]]
+  title = "Paragliding vom Babadağ"
+  caption = "Der Tandemflug mit meinem Piloten Mehmet war genial. Los ging es in den Wolken vom fast 2000 Meter hohen Berg Babadağ im Hintergrund. Nachdem beim Start alles sehr schnell ging und man einen Sprint hinlegen musste um abzuheben, war es in der Luft entspannt und ich konnte genießen und staunen. Direkt unter uns liegt Ölüdeniz, von wo wir mit Bussen auf den Berg gebracht wurden.."
+  imagePathFull = "/images/posts/blauereise/24.jpg"
+  imagePathThumb = "/images/posts/blauereise/24_min.jpg"
+  position = ""
+
+[[images]]
+  title = "Blick in die Bucht von Ölüdeniz"
+  caption = "Das Wetter war auf unserer Seite und die die Wolken ließen immer mehr Sonne durch. Ich fand es toll die Bucht mal aus einer ganz anderen Perspektive zu sehen. Noch vor wenigen Wochen ankerten wir auf der rechten Seite mit dem Boot und am Vorabend standen wir mit den Autos links die Küste herunnter."
+  imagePathFull = "/images/posts/blauereise/23.jpg"
+  imagePathThumb = "/images/posts/blauereise/23_min.jpg"
+  externallink.label = ""
+  externallink.destination = ""
+  position = ""
+  
+[[images]]
+  title = "Das Beste kommt zum Schluss"
+  caption = "Während wir noch viele hundert Meter über dem Ölüdeniz schwebten fragte mich Mehmet, ob ich bereit sei für etwas Action. Die Frage war schnell beantwortet und dann ging es rapide hinab. Beinahe waagerecht kreiste der Schirm mit uns in Richtung Boden und die Fliehkraft drückte einen so in den Sitz wie in einer extremen Achterbahn. Das Grinsen wich mir erst aus dem Gesicht, als wir wieder auf dem Boden standen. Nach diesen ereignisreichen Tagen reiste ich noch eine Weile mit Jonathan und Jolien weiter, bevor ich Besuch aus Dänemark und Italien bekam. Dazu mehr beim nächsten Mal."
+  imagePathFull = "/images/posts/blauereise/25.jpg"
+  imagePathThumb = "/images/posts/blauereise/25_min.jpg"
+  position = ""
